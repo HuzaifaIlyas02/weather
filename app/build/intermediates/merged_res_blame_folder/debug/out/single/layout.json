@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.check_weather.app-mergeDebugResources-45:/layout/weather_hourly_item.xml",
+        "source": "com.example.check_weather.app-main-48:/layout/weather_hourly_item.xml"
+    },
+    {
+        "merged": "com.example.check_weather.app-mergeDebugResources-45:/layout/fragment_about.xml",
+        "source": "com.example.check_weather.app-main-48:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.example.check_weather.app-mergeDebugResources-45:/layout/dialog_set_appid.xml",
+        "source": "com.example.check_weather.app-main-48:/layout/dialog_set_appid.xml"
+    },
+    {
+        "merged": "com.example.check_weather.app-mergeDebugResources-45:/layout/content_main.xml",
+        "source": "com.example.check_weather.app-main-48:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.check_weather.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "com.example.check_weather.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.check_weather.app-mergeDebugResources-45:/layout/toolbar.xml",
+        "source": "com.example.check_weather.app-main-48:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.example.check_weather.app-mergeDebugResources-45:/layout/weather_day_item.xml",
+        "source": "com.example.check_weather.app-main-48:/layout/weather_day_item.xml"
+    },
+    {
+        "merged": "com.example.check_weather.app-mergeDebugResources-45:/layout/multiple_days_item.xml",
+        "source": "com.example.check_weather.app-main-48:/layout/multiple_days_item.xml"
+    },
+    {
+        "merged": "com.example.check_weather.app-mergeDebugResources-45:/layout/activity_hourly.xml",
+        "source": "com.example.check_weather.app-main-48:/layout/activity_hourly.xml"
+    },
+    {
+        "merged": "com.example.check_weather.app-mergeDebugResources-45:/layout/content_empty.xml",
+        "source": "com.example.check_weather.app-main-48:/layout/content_empty.xml"
+    },
+    {
+        "merged": "com.example.check_weather.app-mergeDebugResources-45:/layout/fragment_multiple_days.xml",
+        "source": "com.example.check_weather.app-main-48:/layout/fragment_multiple_days.xml"
+    }
+]

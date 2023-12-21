@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">موسمیاتی ایپ</string>
+    <string name="cancel_label">منسوخ کریں</string>
+    <string name="store_label">ذخیرہ کریں</string>
+    <string name="license_title">لائسنس</string>
+    <string name="libraries_title">لائبریریز اور وسائل</string>
+    <string name="developer_info_title">ڈویلپر</string>
+    <string name="design_api_title">ڈیزائن اور اے پی آئی</string>
+    <string name="application_info_title">ایپ کی معلومات</string>
+    <string name="application_info_text">
+        <![CDATA[
+            <p>
+            <b>موسمیاتی ایپ</b>
+            <br/>
+            ایپ کا ورژن: %1$s
+            <br/>
+            ایپ کا سورس گٹ ہب پر دستیاب ہے
+            <br/><a href="https://github.com/bkhezry/weather">https://github.com/bkhezry/weather</a></p>
+        ]]>
+    </string>
+    <string name="current_label">فی الحال</string>
+    <string name="humidity_label">نمی</string>
+    <string name="wind_label">ہوا</string>
+    <string name="next_4_days_hourly">4 دن بعد/گھنٹے کے حساب سے</string>
+    <string name="next_15_days_label">15 دن بعد</string>
+    <string name="search_for_a_city_label">شہر کا تلاش کریں</string>
+    <string name="zero_label">%d۰</string>
+    <string name="wind_unit_label">%.0f کلومیٹر/گھنٹہ</string>
+    <string name="openweathermap_api_key_label">اوپن ویذر میپ اے پی آئی کی</string>
+    <string name="api_key_description">ایپ کا استعمال کرنے کے لئے آپ کو ایک اے پی آئی کی حاصل کرنی چاہئے۔ یہ بلکل مفت ہے۔ براہ کرم اس لنک پر کلک کریں اور ایک اکاؤنٹ بنائیں۔ اس کے بعد آپ ایک اے پی آئی کی حاصل کر سکتے ہیں۔</string>
+    <string name="get_api_key_label">اے پی آئی کی حاصل کریں</string>
+    <string name="api_key_label">اے پی آئی کی</string>
+    <string name="search_label">تلاش</string>
+    <string name="no_internet_message">براہ کرم انٹرنیٹ کا موصولہ چیک کریں</string>
+    <string name="no_city_found_message">اس نام کا کوئی شہر نہیں مل سکا</string>
+    <string name="invalid_api_key_message">غلط اے پی آئی کی ہے۔ اگلے اپ ڈیٹ کا منتظر رہیں</string>
+    <string name="network_exception_message">انٹرنیٹ کے ساتھ جڑا ہوا خرابی</string>
+    <string name="retry_label">دوبارہ کوشش کریں</string>
+    <string name="ok_label">ٹھیک ہے</string>
+    <string name="night_mode_label">رات کا موڈ</string>
+</resources>

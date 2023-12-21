@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res"><file name="slide_down_anim" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\anim\slide_down_anim.xml" qualifiers="" type="anim"/><file name="slide_in_bottom" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\anim\slide_in_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_right" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\anim\slide_in_right.xml" qualifiers="" type="anim"/><file name="slide_out_left" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\anim\slide_out_left.xml" qualifiers="" type="anim"/><file name="slide_out_top" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\anim\slide_out_top.xml" qualifiers="" type="anim"/><file name="slide_up_anim" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\anim\slide_up_anim.xml" qualifiers="" type="anim"/><file name="custom_curosr" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable\custom_curosr.xml" qualifiers="" type="drawable"/><file name="ic_arrow_back_black_24dp" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable\ic_arrow_back_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_close_black_24dp" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable\ic_close_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_done_black_24dp" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable\ic_done_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_keyboard_arrow_down_black_24dp" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable\ic_keyboard_arrow_down_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_keyboard_arrow_up_black_24dp" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable\ic_keyboard_arrow_up_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="ic_menu_black_24dp" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable\ic_menu_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_search_black_24dp" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable\ic_search_black_24dp.xml" qualifiers="" type="drawable"/><file name="ic_broken_clouds" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable-hdpi\ic_broken_clouds.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_clear_day" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable-hdpi\ic_clear_day.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_cloudy_weather" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable-hdpi\ic_cloudy_weather.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_few_clouds" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable-hdpi\ic_few_clouds.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_mostly_cloudy" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable-hdpi\ic_mostly_cloudy.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_rainy_weather" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable-hdpi\ic_rainy_weather.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_shower_rain" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable-hdpi\ic_shower_rain.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_snow_weather" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable-hdpi\ic_snow_weather.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_storm_weather" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable-hdpi\ic_storm_weather.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_unknown" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable-hdpi\ic_unknown.png" qualifiers="hdpi-v4" type="drawable"/><file name="no_city" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\drawable-hdpi\no_city.png" qualifiers="hdpi-v4" type="drawable"/><file name="activity_hourly" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\layout\activity_hourly.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="content_empty" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\layout\content_empty.xml" qualifiers="" type="layout"/><file name="content_main" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\layout\content_main.xml" qualifiers="" type="layout"/><file name="dialog_set_appid" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\layout\dialog_set_appid.xml" qualifiers="" type="layout"/><file name="fragment_about" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\layout\fragment_about.xml" qualifiers="" type="layout"/><file name="fragment_multiple_days" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\layout\fragment_multiple_days.xml" qualifiers="" type="layout"/><file name="multiple_days_item" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\layout\multiple_days_item.xml" qualifiers="" type="layout"/><file name="toolbar" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\layout\toolbar.xml" qualifiers="" type="layout"/><file name="weather_day_item" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\layout\weather_day_item.xml" qualifiers="" type="layout"/><file name="weather_hourly_item" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\layout\weather_hourly_item.xml" qualifiers="" type="layout"/><file name="menu_main" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\menu\menu_main.xml" qualifiers="" type="menu"/><file name="app_icon" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\mipmap-hdpi\app_icon.png" qualifiers="hdpi-v4" type="mipmap"/><file name="broken_clouds" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\raw\broken_clouds.json" qualifiers="" type="raw"/><file name="clear_day" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\raw\clear_day.json" qualifiers="" type="raw"/><file name="cloudy_weather" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\raw\cloudy_weather.json" qualifiers="" type="raw"/><file name="few_clouds" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\raw\few_clouds.json" qualifiers="" type="raw"/><file name="mostly_cloudy" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\raw\mostly_cloudy.json" qualifiers="" type="raw"/><file name="rainy_weather" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\raw\rainy_weather.json" qualifiers="" type="raw"/><file name="shower_rain" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\raw\shower_rain.json" qualifiers="" type="raw"/><file name="snow_weather" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\raw\snow_weather.json" qualifiers="" type="raw"/><file name="storm_weather" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\raw\storm_weather.json" qualifiers="" type="raw"/><file name="unknown" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\raw\unknown.json" qualifiers="" type="raw"/><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values\array.xml" qualifiers=""><array name="mdcolor_500">
+        <item name="blue_grey_500" type="color">#6452f0</item>
+        <item name="green_500" type="color">#28E0AE</item>
+        <item name="pink_500" type="color">#ff0090</item>
+        <item name="orange_500" type="color">#FFAE00</item>
+        <item name="blue_500" type="color">#5d50fe</item>
+    </array><array name="mdcolor_500_alpha">
+        <item name="blue_grey_500_alpha" type="color">#4D6452F0</item>
+        <item name="green_500_alpha" type="color">#4D28E0AE</item>
+        <item name="pink_500_alpha" type="color">#4DFF0090</item>
+        <item name="orange_500_alpha" type="color">#4DFFAE00</item>
+        <item name="blue_500_alpha" type="color">#4D5D50FE</item>
+    </array></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values\attrs_elastic_drag_dismiss_frame_layout.xml" qualifiers=""><declare-styleable name="ElasticDragDismissFrameLayout">
+        <attr format="dimension" name="dragDismissDistance"/>
+        <attr format="float" name="dragDismissFraction"/>
+        <attr format="float" name="dragDismissScale"/>
+        <attr format="float" name="dragElasticity"/>
+    </declare-styleable></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values\colors.xml" qualifiers=""><color name="colorPrimary">#ffffff</color><color name="colorPrimaryDark">#dddddd</color><color name="colorAccent">#D81B60</color><color name="overlay_dark_50">#40000000</color><color name="material_blue">#6452f0</color><color name="grey_10">#e6e6e6</color><color name="green_success">#155724</color><color name="colorPrimaryNight">#263238</color><color name="colorPrimaryDarkNight">#141d26</color><color name="scrim">#99323232</color></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="spacing_medium">5dp</dimen><dimen name="spacing_middle">10dp</dimen><dimen name="spacing_large">15dp</dimen><dimen name="spacing_mlarge">20dp</dimen><dimen name="spacing_xlarge">35dp</dimen><dimen name="spacing_xxlarge">50dp</dimen><dimen name="spacing_xxxlarge">60dp</dimen><dimen name="drag_dismiss_distance">112dp</dimen><dimen name="card_view_height">350dp</dimen></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values\open_weather_map_api.xml" qualifiers=""><string name="open_weather_map_api" templateMergeStrategy="preserve" translatable="false">b15c6fd2d00eb7ee503d795bdd4cd3b5</string></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Weather</string><string name="cancel_label">Cancel</string><string name="store_label">Store</string><string name="license_title">License</string><string name="libraries_title">Libraries &amp; Resources</string><string name="developer_info_title">Developer Info</string><string name="design_api_title">Design &amp; API</string><string name="application_info_title">Application Info</string><string name="application_info_text">
+        <![CDATA[
+            <p>
+            <b>Weather application</b>
+            <br/>
+            Version: %1$s
+            <br/>
+            This application is open source at <br/><a href="https://github.com/HuzaifaIlyas02/weather">Github Link</a></p>
+        ]]>
+    </string><string name="developer_info_text" translatable="false">
+        <![CDATA[
+            <p>Huzaifa Ilyas <a href="https://twitter.com/m_huzaifa_25">@huzaifa</a></p>
+        ]]>
+    </string><string name="design_api_text" translatable="false">
+        <![CDATA[
+            <p>
+            <a href="https://www.uplabs.com/posts/weather-app-freebie">Weather App Freebie</a> by Raman Yv
+            <br/>
+            <a href="https://lottiefiles.com/user/26177">Lottie & Icon files</a> by jochang
+            <br/>
+            <a href="http://openweathermap.org/">OpenWeatherMap</a> Weather API
+            </p>
+        ]]>
+    </string><string name="license_text" translatable="false">
+        <![CDATA[
+            <p>Copyright 2019 Huzaifa Ilyas</p>
+            <p>Licensed under the Apache License, Version 2.0 (the "License");
+            you may not use this file except in compliance with the License.
+            You may obtain a copy of the License at</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a></p>
+            <p>Unless required by applicable law or agreed to in writing, software
+            distributed under the License is distributed on an "AS IS" BASIS,
+            WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+            See the License for the specific language governing permissions and
+            limitations under the License.</p>
+        ]]>
+    </string><string name="libraries_text" translatable="false">
+        <![CDATA[
+           <p>
+            <a href="https://github.com/JakeWharton/butterknife">ButterKnife</a> - Apache-2.0
+            <br/>
+            <a href="https://github.com/square/retrofit">Retrofit</a> - Apache-2.0
+            <br/>
+            <a href="https://github.com/ReactiveX/RxAndroid">RxAndroid</a> - Apache-2.0
+            <br/>
+            <a href="https://github.com/objectbox/objectbox-java">ObjectBox</a> - Apache-2.0
+            <br/>
+            <a href="https://github.com/mikepenz/FastAdapter">FastAdapter</a> - Apache-2.0
+            <br/>
+            <a href="https://github.com/bumptech/glide">Glide</a> - Apache-2.0
+            <br/>
+            <a href="https://github.com/airbnb/lottie-android">Lottie-Android</a> - Apache-2.0
+            <br/>
+            <a href="https://github.com/MiguelCatalan/MaterialSearchView">MaterialSearchView</a> - Apache-2.0
+            <br/>
+            <a href="https://github.com/pwittchen/prefser">Prefser</a> - Apache-2.0
+            <br/>
+            <a href="https://github.com/PhilJay/MPAndroidChart">MPAndroidChart</a> - Apache-2.0
+            <br/>
+            <a href="https://github.com/InflationX/Calligraphy">Calligraphy</a> - Apache-2.0
+            <br/>
+            <a href="https://github.com/google/material-design-icons">Material design icons</a> - Creative Common Attribution 4.0 International License
+           </p>
+
+        ]]>
+</string><string name="current_label">Current</string><string name="humidity_label">Humidity</string><string name="wind_label">Wind</string><string name="next_4_days_hourly">Next 4 Days/Hourly</string><string name="next_15_days_label">Next 15 Days</string><string name="search_for_a_city_label">Search for a city</string><string name="zero_label">0%d</string><string name="wind_unit_label">%.0f km/hr</string><string name="openweathermap_api_key_label">OpenWeatherMap API Key</string><string name="api_key_description">For using application you should provide API key. It is free. Please open link below and create account. After that you can get API key.</string><string name="get_api_key_label">Get API Key</string><string name="api_key_label">API Key</string><string name="english_label" translatable="false">English</string><string name="persian_label" translatable="false">فارسی</string><string name="search_label">Search</string><string name="no_internet_message">Please check internet connection</string><string name="no_city_found_message">No city found with this name</string><string name="invalid_api_key_message">API key is invalid. Wait for next update</string><string name="network_exception_message">Network connection problem</string><string name="retry_label">Retry</string><string name="ok_label">OK</string><string name="night_mode_label">Night Mode</string></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values\styles.xml" qualifiers=""><style name="TextViewInColoredCard">
+        <item name="android:textColor">@android:color/white</item>
+    </style><style name="SubTextViewInColoredCard">
+        <item name="android:textColor">@color/grey_10</item>
+    </style><style name="IconInColoredCard">
+        <item name="android:tint">@android:color/white</item>
+    </style><style name="TempTextView">
+        <item name="android:textSize">70sp</item>
+        <item name="android:textColor">@color/grey_10</item>
+    </style><style name="DescriptionTextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/grey_10</item>
+    </style><style name="HumidityTextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/grey_10</item>
+    </style><style name="WindSpeedTextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/grey_10</item>
+    </style><style name="HeadlineTextStyle">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Subhead</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style><style name="MaterialSearchViewStyle">
+        
+        <item name="searchBackground">?attr/colorPrimary</item>
+
+        
+        <item name="android:textColor">@android:color/black</item>
+
+        
+        <item name="android:textColorHint">@android:color/black</item>
+
+    </style><style name="TransitionTheme" parent="AppTheme">
+        <item name="android:windowBackground">@color/scrim</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds" ns1:targetApi="lollipop">true</item>
+    </style><style name="AppTheme" parent="@style/Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:forceDarkAllowed" ns1:targetApi="q">false</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowSharedElementsUseOverlay">true</item>
+    </style></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.Term_Project_weather" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style><style name="Theme.Term_Project_weather" parent="Base.Theme.Term_Project_weather"/></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values\values.xml" qualifiers=""><attr format="string" name="fontPath"/><item name="calligraphy_tag_id" type="id"/><item name="fastadapter_item_adapter" type="id"/><item name="fastadapter_item" type="id"/></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values-fa\strings.xml" qualifiers="fa"><string name="app_name">موسمیاتی ایپ</string><string name="cancel_label">منسوخ کریں</string><string name="store_label">ذخیرہ کریں</string><string name="license_title">لائسنس</string><string name="libraries_title">لائبریریز اور وسائل</string><string name="developer_info_title">ڈویلپر</string><string name="design_api_title">ڈیزائن اور اے پی آئی</string><string name="application_info_title">ایپ کی معلومات</string><string name="application_info_text">
+        <![CDATA[
+            <p>
+            <b>موسمیاتی ایپ</b>
+            <br/>
+            ایپ کا ورژن: %1$s
+            <br/>
+            ایپ کا سورس گٹ ہب پر دستیاب ہے
+            <br/><a href="https://github.com/bkhezry/weather">https://github.com/bkhezry/weather</a></p>
+        ]]>
+    </string><string name="current_label">فی الحال</string><string name="humidity_label">نمی</string><string name="wind_label">ہوا</string><string name="next_4_days_hourly">4 دن بعد/گھنٹے کے حساب سے</string><string name="next_15_days_label">15 دن بعد</string><string name="search_for_a_city_label">شہر کا تلاش کریں</string><string name="zero_label">%d۰</string><string name="wind_unit_label">%.0f کلومیٹر/گھنٹہ</string><string name="openweathermap_api_key_label">اوپن ویذر میپ اے پی آئی کی</string><string name="api_key_description">ایپ کا استعمال کرنے کے لئے آپ کو ایک اے پی آئی کی حاصل کرنی چاہئے۔ یہ بلکل مفت ہے۔ براہ کرم اس لنک پر کلک کریں اور ایک اکاؤنٹ بنائیں۔ اس کے بعد آپ ایک اے پی آئی کی حاصل کر سکتے ہیں۔</string><string name="get_api_key_label">اے پی آئی کی حاصل کریں</string><string name="api_key_label">اے پی آئی کی</string><string name="search_label">تلاش</string><string name="no_internet_message">براہ کرم انٹرنیٹ کا موصولہ چیک کریں</string><string name="no_city_found_message">اس نام کا کوئی شہر نہیں مل سکا</string><string name="invalid_api_key_message">غلط اے پی آئی کی ہے۔ اگلے اپ ڈیٹ کا منتظر رہیں</string><string name="network_exception_message">انٹرنیٹ کے ساتھ جڑا ہوا خرابی</string><string name="retry_label">دوبارہ کوشش کریں</string><string name="ok_label">ٹھیک ہے</string><string name="night_mode_label">رات کا موڈ</string></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values-hdpi\dimens.xml" qualifiers="hdpi-v4"><dimen name="card_view_height">280dp</dimen></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values-ldpi\dimens.xml" qualifiers="ldpi-v4"><dimen name="card_view_height">280dp</dimen></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values-mdpi\dimens.xml" qualifiers="mdpi-v4"><dimen name="card_view_height">280dp</dimen></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.Term_Project_weather" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values-sw600dp\dimens.xml" qualifiers="sw600dp-v13"><dimen name="card_view_height">350dp</dimen></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values-sw720dp\dimens.xml" qualifiers="sw720dp-v13"><dimen name="card_view_height">350dp</dimen></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values-xhdpi\dimens.xml" qualifiers="xhdpi-v4"><dimen name="card_view_height">280dp</dimen></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values-xxhdpi\dimens.xml" qualifiers="xxhdpi-v4"><dimen name="card_view_height">300dp</dimen></file><file path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\values-xxxhdpi\dimens.xml" qualifiers="xxxhdpi-v4"><dimen name="card_view_height">300dp</dimen></file><file name="backup_rules" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\PMYLS\AndroidStudioProjects\Check_weather\app\build\generated\res\resValues\debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ElasticDragDismissFrameLayout">
+        <attr format="dimension" name="dragDismissDistance"/>
+        <attr format="float" name="dragDismissFraction"/>
+        <attr format="float" name="dragDismissScale"/>
+        <attr format="float" name="dragElasticity"/>
+    </declare-styleable></configuration></mergedItems></merger>
