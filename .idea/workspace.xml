@@ -47,6 +47,12 @@
     "last_opened_file_path": "C:/Users/PMYLS/Desktop/weather/app/src/main/res/drawable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\res\drawable" />
+      <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="Weather.app.main" />
