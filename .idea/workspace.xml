@@ -10,6 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc7472f4-9e12-4028-acef-f40ace4023e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/HourlyActivity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_broken_clouds.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_clear_day.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_cloudy_weather.png" afterDir="false" />
@@ -21,6 +22,7 @@
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_storm_weather.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_unknown.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/no_city.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_hourly.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/MainActivity.java" afterDir="false" />
     </list>
@@ -91,15 +93,19 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/PMYLS/Desktop/weather/app/src/main/res"
+    "last_opened_file_path": "C:/Users/PMYLS/Desktop/weather/app/src/main/res/layout"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\res\layout" />
       <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\res" />
       <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\java\com\example\weather" />
       <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\res\drawable" />
       <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.weather.check_weather" />
     </key>
   </component>
   <component name="RunManager">
