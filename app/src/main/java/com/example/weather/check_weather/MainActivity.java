@@ -16,7 +16,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import com.bumptech.glide.Glide;
-import com.example.weather.R;
+import com.example.weather.check_weather.R;
 import com.example.check_weather.databinding.ActivityMainBinding;
 import com.example.model.CityInfo;
 import com.example.model.currentweather.CurrentWeatherResponse;
