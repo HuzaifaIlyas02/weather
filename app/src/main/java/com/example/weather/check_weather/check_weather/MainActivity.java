@@ -1,4 +1,4 @@
-package com.example.weather.check_weather;
+package com.example.weather.check_weather.check_weather;
 import android.Manifest;
 import android.content.Intent;
 import android.graphics.Typeface;

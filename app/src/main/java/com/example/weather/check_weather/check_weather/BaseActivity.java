@@ -1,4 +1,4 @@
-package com.example.weather.check_weather;
+package com.example.weather.check_weather.check_weather;
 
 import android.content.Context;
 import android.content.res.Configuration;
