@@ -1,4 +1,4 @@
-package com.example.weather.check_weather.model.service;
+package com.example.weather.check_weather.service;
 
 import com.example.weather.check_weather.model.currentweather.CurrentWeatherResponse;
 import com.example.model.daysweather.MultipleDaysWeatherResponse;
