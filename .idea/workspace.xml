@@ -10,6 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc7472f4-9e12-4028-acef-f40ace4023e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/common/Clouds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/common/Coord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/common/WeatherItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/common/Wind.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/listener/OnSetApiKeyEventListener.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_broken_clouds.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_clear_day.png" afterDir="false" />
@@ -107,6 +111,7 @@
       <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.weather.check_weather.common" />
       <recent name="com.example.weather.check_weather.listener" />
       <recent name="com.example.weather.check_weather" />
     </key>
