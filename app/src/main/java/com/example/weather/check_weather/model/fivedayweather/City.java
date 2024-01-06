@@ -1,6 +1,6 @@
 package com.example.weather.check_weather.model.fivedayweather;
 
-import com.example.model.common.Coord;
+import com.example.weather.check_weather.model.common.Coord;
 import com.google.gson.annotations.SerializedName;
 
 public class City {
