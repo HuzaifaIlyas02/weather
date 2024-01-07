@@ -18,7 +18,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatDelegate;
 import androidx.fragment.app.DialogFragment;
 
-import com.example.check_weather.MainActivity;
+import com.example.weather.check_weather.check_weather.MainActivity;
 import com.example.check_weather.R;
 import com.example.check_weather.databinding.FragmentAboutBinding;
 import com.example.utils.AppUtil;
