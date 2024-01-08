@@ -20,11 +20,11 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import com.example.check_weather.R;
 import com.example.check_weather.databinding.FragmentMultipleDaysBinding;
-import com.example.model.CityInfo;
-import com.example.model.daysweather.ListItem;
-import com.example.model.daysweather.MultipleDaysWeatherResponse;
-import com.example.model.db.MultipleDaysWeather;
-import com.example.service.ApiService;
+import com.example.weather.check_weather.model.CityInfo;
+import com.example.weather.check_weather.model.daysweather.ListItem;
+import com.example.weather.check_weather.model.daysweather.MultipleDaysWeatherResponse;
+import com.example.weather.check_weather.model.db.MultipleDaysWeather;
+import com.example.weather.check_weather.service.ApiService;
 import com.example.utils.ApiClient;
 import com.example.utils.AppUtil;
 import com.example.utils.Constants;
