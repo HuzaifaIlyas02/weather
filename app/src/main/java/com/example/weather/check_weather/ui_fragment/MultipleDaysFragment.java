@@ -141,9 +141,26 @@ public class MultipleDaysFragment extends DialogFragment {
         });
   }
 
-  
+  private void checkTimePass() {
+    apiKey = getResources().getString(R.string.open_weather_map_api);
+    if (prefser.contains(Constants.LAST_STORED_MULTIPLE_DAYS)) {
+      requestWeather();
+    } else {
+      checkCityInfoExist();
+    }
+  }
 
-
+  private void checkCityInfoExist() {
+    CityInfo cityInfo = prefser.get(Constants.CITY_INFO, CityInfo.class, null);
+    if (cityInfo != null) {
+      if (AppUtil.isNetworkConnected()) {
+        requestWeathers(cityInfo.getName());
+      } else {
+        Toast.makeText(activity, getResources().getString(R.string.no_internet_message), Toast.LENGTH_SHORT).show();
+        binding.swipeContainer.setRefreshing(false);
+      }
+    }
+  }
 
   private void requestWeathers(String cityName) {
     ApiService apiService = ApiClient.getClient().create(ApiService.class);
