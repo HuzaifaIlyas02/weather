@@ -10,7 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc7472f4-9e12-4028-acef-f40ace4023e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/ui_fragment/MultipleDaysFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/ui_fragment/MultipleDaysFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/utils/ApiClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,11 +92,11 @@
       <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\java\com\example\weather" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.weather.check_weather.utils" />
       <recent name="com.example.weather.check_weather.ui_fragment" />
       <recent name="com.example.weather.check_weather.model" />
       <recent name="com.example.weather.check_weather.model.fivedayweather" />
       <recent name="com.example.weather.check_weather.model.db" />
-      <recent name="com.example.weather.check_weather.common" />
     </key>
   </component>
   <component name="RunManager">
