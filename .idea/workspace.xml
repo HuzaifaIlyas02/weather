@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc7472f4-9e12-4028-acef-f40ace4023e1" name="Changes" comment="" />
+    <list default="true" id="cc7472f4-9e12-4028-acef-f40ace4023e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_empty.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,22 +72,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;android-custom-viewC:/Users/PMYLS/Desktop/weather/app/src/main/java/com/example/weather/check_weather/utils/ElasticDragDismissFrameLayout.java_SELECTED&quot;: &quot;ElasticDragDismissFrameLayout&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PMYLS/Desktop/weather&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "android-custom-viewC:/Users/PMYLS/Desktop/weather/app/src/main/java/com/example/weather/check_weather/utils/ElasticDragDismissFrameLayout.java_SELECTED": "ElasticDragDismissFrameLayout",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/PMYLS/Desktop/weather/app/src/main/res/layout"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\res\layout" />
       <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\java\com\example\weather\check_weather\model" />
       <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\java\com\example\weather\check_weather" />
-      <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\res\layout" />
       <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\res" />
       <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\java\com\example\weather" />
     </key>
