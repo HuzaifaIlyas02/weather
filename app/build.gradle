@@ -79,6 +79,9 @@ dependencies {
     implementation 'com.google.firebase:firebase-crashlytics:18.6.0'
     // Recommended: Add the Google Analytics SDK.
     implementation 'com.google.firebase:firebase-analytics:21.5.0'
+    implementation 'androidx.coordinatorlayout:coordinatorlayout:latest_version'
+    implementation 'com.google.android.material:material:latest_version'
+
 
 }
 android.applicationVariants.all { variant ->
