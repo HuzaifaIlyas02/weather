@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.example.utils.ElasticDragDismissFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.example.weather.check_weather.utils.ElasticDragDismissFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/draggable_frame"
@@ -171,4 +171,4 @@
             </com.google.android.material.card.MaterialCardView>
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
-</com.example.utils.ElasticDragDismissFrameLayout>
+</com.example.weather.check_weather.utils.ElasticDragDismissFrameLayout>
