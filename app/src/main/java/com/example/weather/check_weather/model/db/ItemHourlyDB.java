@@ -7,7 +7,7 @@ import androidx.annotation.NonNull;
 
 import com.example.check_weather.R;
 import com.example.check_weather.databinding.WeatherHourlyItemBinding;
-import com.example.utils.AppUtil;
+import com.example.weather.check_weather.utils.AppUtil;
 import com.mikepenz.fastadapter.FastAdapter;
 import com.mikepenz.fastadapter.items.AbstractItem;
 

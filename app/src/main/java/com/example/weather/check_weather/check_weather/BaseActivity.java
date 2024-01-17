@@ -7,7 +7,7 @@ import android.os.Bundle;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.utils.MyApplication;
+import com.example.weather.check_weather.utils.MyApplication;
 
 import io.github.inflationx.viewpump.ViewPumpContextWrapper;
 

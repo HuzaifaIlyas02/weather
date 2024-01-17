@@ -1,8 +1,9 @@
 package com.example.weather.check_weather.model.currentweather;
 
-import com.example.model.common.Coord;
-import com.example.model.common.WeatherItem;
-import com.example.model.common.Wind;
+import com.example.weather.check_weather.model.common.Clouds;
+import com.example.weather.check_weather.model.common.Coord;
+import com.example.weather.check_weather.model.common.WeatherItem;
+import com.example.weather.check_weather.model.common.Wind;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;

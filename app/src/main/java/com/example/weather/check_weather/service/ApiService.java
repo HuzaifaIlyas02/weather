@@ -1,8 +1,8 @@
 package com.example.weather.check_weather.service;
 
 import com.example.weather.check_weather.model.currentweather.CurrentWeatherResponse;
-import com.example.model.daysweather.MultipleDaysWeatherResponse;
-import com.example.model.fivedayweather.FiveDayResponse;
+import com.example.weather.check_weather.model.daysweather.MultipleDaysWeatherResponse;
+import com.example.weather.check_weather.model.fivedayweather.FiveDayResponse;
 
 import io.reactivex.Single;
 import retrofit2.http.GET;

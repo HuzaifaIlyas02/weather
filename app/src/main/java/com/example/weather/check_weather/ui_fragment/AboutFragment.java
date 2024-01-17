@@ -21,12 +21,11 @@ import androidx.fragment.app.DialogFragment;
 import com.example.weather.check_weather.check_weather.MainActivity;
 import com.example.check_weather.R;
 import com.example.check_weather.databinding.FragmentAboutBinding;
-import com.example.utils.AppUtil;
-import com.example.utils.LocaleManager;
-import com.example.utils.MyApplication;
-import com.example.utils.SharedPreferencesUtil;
-import com.example.utils.ViewAnimation;
-
+import com.example.weather.check_weather.utils.AppUtil;
+import com.example.weather.check_weather.utils.LocaleManager;
+import com.example.weather.check_weather.utils.MyApplication;
+import com.example.weather.check_weather.utils.SharedPreferencesUtil;
+import com.example.weather.check_weather.utils.ViewAnimation;
 
 public class AboutFragment extends DialogFragment {
 

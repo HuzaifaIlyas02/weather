@@ -10,17 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc7472f4-9e12-4028-acef-f40ace4023e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/check_weather/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/check_weather/BaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/check_weather/HourlyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/check_weather/HourlyActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/check_weather/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/check_weather/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/model/currentweather/CurrentWeatherResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/model/currentweather/CurrentWeatherResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/model/db/FiveDayWeather.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/model/db/FiveDayWeather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/model/db/ItemHourlyDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/model/db/ItemHourlyDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/model/db/MultipleDaysWeather.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/model/db/MultipleDaysWeather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/model/fivedayweather/ItemHourly.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/model/fivedayweather/ItemHourly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/service/ApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/service/ApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/ui_fragment/AboutFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/ui_fragment/AboutFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/ui_fragment/MultipleDaysFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/weather/check_weather/ui_fragment/MultipleDaysFragment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,17 +83,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "android-custom-viewC:/Users/PMYLS/Desktop/weather/app/src/main/java/com/example/weather/check_weather/utils/ElasticDragDismissFrameLayout.java_SELECTED": "ElasticDragDismissFrameLayout",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/PMYLS/Desktop/weather/app/src/main/res"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;android-custom-viewC:/Users/PMYLS/Desktop/weather/app/src/main/java/com/example/weather/check_weather/utils/ElasticDragDismissFrameLayout.java_SELECTED&quot;: &quot;ElasticDragDismissFrameLayout&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PMYLS/Desktop/weather/app/src/main/res&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PMYLS\Desktop\weather\app\src\main\res" />

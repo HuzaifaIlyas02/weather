@@ -1,5 +1,6 @@
 package com.example.weather.check_weather.model.fivedayweather;
 
+import com.example.weather.check_weather.model.common.Clouds;
 import com.example.weather.check_weather.model.common.Coord;
 import com.example.weather.check_weather.model.common.WeatherItem;
 import com.example.weather.check_weather.model.common.Wind;
