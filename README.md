@@ -32,7 +32,7 @@ After launching the app, the user can:
 - Access forecast data for upcoming days.
 
 ## Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+We welcome and appreciate contributions to enhance the project, improve the user interface, fix bugs, or provide suggestions for new features.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
